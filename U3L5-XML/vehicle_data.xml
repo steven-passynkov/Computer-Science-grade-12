@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Vehicles>
+        
+    <Vehicle>
+                
+        <VIN>JH4DA9360LS010859</VIN>
+                
+        <Year>2023</Year>
+                
+        <Company>Tesla</Company>
+                
+        <Style>sedan</Style>
+                
+        <Color>white</Color>
+                
+        <Mileage>20 Kilometers</Mileage>
+            
+    </Vehicle>
+    
+    <Vehicle>
+        <VIN>JH4DA9360LS010852</VIN>
+        <Year>2021</Year>
+        <Company>Subaru</Company>
+        <Style>sedan</Style>
+        <Color>pink</Color>
+        <Mileage>200 Kilometers</Mileage>
+    </Vehicle>
+</Vehicles>
